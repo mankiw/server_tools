@@ -1,0 +1,16 @@
+2014-03-01 13:29:59 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.72.0>
+    registered_name: []
+    exception exit: {killed,[{application_master,terminate,2,[{file,"application_master.erl"},{line,229}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+    ancestors: [<0.71.0>]
+    messages: []
+    links: [<0.6.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 24
+    reductions: 1623
+  neighbours:

@@ -1,0 +1,26 @@
+2014-03-01 12:40:30.033 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 12:42:47.250 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 12:42:47.250 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 12:44:55.388 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 12:44:55.389 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 12:52:44.933 [error] <0.75.0> abc
+2014-03-01 12:56:24.150 [error] <0.2.0>@test1_app:start:14 lager app is start {12,56,24}
+2014-03-01 12:56:24.150 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 12:56:24.158 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 13:15:42.595 [error] <0.2.0>@test1_app:start:14 lager app is start {13,15,42}
+2014-03-01 13:15:42.595 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 13:15:42.606 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 13:16:00.411 [error] <0.2.0>@test1_app:start:14 lager app is start {13,16,0}
+2014-03-01 13:16:00.411 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 13:16:00.421 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 13:16:53.595 [error] <0.2.0>@test1_app:start:14 lager app is start {13,16,53}
+2014-03-01 13:16:53.596 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 13:16:53.650 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-01 13:29:59.529 [error] <0.72.0> CRASH REPORT Process <0.72.0> with 0 neighbours exited with reason: killed in application_master:terminate/2 line 229
+2014-03-01 13:29:59.529 [info] <0.6.0> Application test1 exited with reason: killed
+2014-03-01 13:44:49.816 [error] <0.2.0>@test1_app:start:14 lager app is start {13,44,49}
+2014-03-01 13:44:49.816 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-01 13:44:49.849 [info] <0.6.0> Application test1 started on node test@localhost
+2014-03-03 20:07:21.377 [error] <0.2.0>@test1_app:start:14 lager app is start {20,7,21}
+2014-03-03 20:07:21.377 [info] <0.6.0> Application lager started on node test@localhost
+2014-03-03 20:07:21.413 [info] <0.6.0> Application test1 started on node test@localhost

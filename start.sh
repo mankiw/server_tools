@@ -1,0 +1,1 @@
+erl -name server_tools@127.0.0.1 -setcookie test1 -pa ebin deps/*/ebin -s test1_app -hiiden
